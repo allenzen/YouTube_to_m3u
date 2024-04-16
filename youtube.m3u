@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://i.imgur.com/6Vw9jUF.png" tvg-id="", ABC News Australia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713301610/ei/CpQeZomGIoWiir4PhOCV6Ak/ip/172.183.132.22/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129847/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fxVWQZc2yOCoQ9Joi9V73QeRP57TVA1eOi7WofnDSxrAaGjSvnMzx3Su/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMjdyDMST9pT34_NT2X3dVqIj7EaX0ufa_qHVgO4jS9WAiEAiGHOg2pb1Lw8LQ3nFPNv1ICHx8UF_nXxIZNtxoAdZKk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://i.imgur.com/vR0TpN9.png" tvg-id="", Bloomberg Global Financial News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -24,10 +24,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", TVBS News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713301612/ei/C5QeZqedOsvnlu8PkqeLMA/ip/172.183.132.22/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fxjgky0M8klc431pKs3j9juTNl7AHd5eTGhhNX6XCk10zVH4GsLeBl_K/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO79NO-zmWthpd6Soao7yHMYz0zZcc1gPWXBBvQZ-LVoAiA-ox4W5gA3Dhazuw-rUsIPLpcnn85-ACZVSFkLD6LqIA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", Taiwan TTV News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713301612/ei/DJQeZo73Kbiplu8PiIiX4A4/ip/172.183.132.22/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129853/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxvqqA5irQSpnm6KLIvjSH94oNj2b1VF848hA9Maztgb1JXIZBJKuNDD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUMiSo8msCMIQkgGZUK-nyM001TKFLMsh3pRGqC2L8lMCIQDpzQIz1y-Hq3YChMbOTPiG9Aw56rrV6ycPOO5hMzIJvg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", SET Live News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
